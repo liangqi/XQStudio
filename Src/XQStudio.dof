@@ -1,0 +1,89 @@
+[Compiler]
+A=1
+B=0
+C=0
+D=0
+E=0
+F=0
+G=1
+H=1
+I=0
+J=1
+K=0
+L=0
+M=0
+N=1
+O=1
+P=1
+Q=0
+R=0
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=0
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=1048576
+MaxStackSize=8388608
+ImageBase=4194304
+ExeDescription=XQStudio 1.5 (Third Editior)  - (C) Copyright by Dong Shiwei, 1998-2001.
+[Directories]
+OutputDir=
+UnitOutputDir=
+PackageDLLOutputDir=
+PackageDCPOutputDir=
+SearchPath=
+Packages=VCL40;VCLX40;VCLDB40;VCLDBX40;VCLSMP40;QRPT40;TEEUI40;TEEDB40;TEE40;DSS40;ibevnt40;VCLMID40;NMFAST40;INETDB40;INET40
+Conditionals=
+DebugSourceDirs=
+UsePackages=0
+[Parameters]
+RunParams=
+HostApplication=
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=1
+MinorVer=6
+Release=3
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=2052
+CodePage=936
+[Version Info Keys]
+CompanyName=http://www.qipaile.net
+FileDescription=XQStudio 1.6 (正式版)
+FileVersion=1.6.3.0
+InternalName=XQStudio (象棋演播室)
+LegalCopyright=Copyright (C) by Dong Shiwei, 1998-2007.
+LegalTrademarks=XQStudio (象棋演播室)
+OriginalFilename=作者: 董世伟（过河象）
+ProductName=XQStudio (象棋演播室)
+ProductVersion=XQStudio 1.6 (正式版)
+Comments=2007年1月30日于北京
+[Excluded Packages]
+$(DELPHI)\Bin\dclite50.bpl=Borland Integrated Translation Environment
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlSearchPath]
+Count=1
+Item0=$(DELPHI)\Lib\Debug
+[HistoryLists\hlOutputDirectorry]
+Count=1
+Item0=C:\WINDOWS\Desktop
